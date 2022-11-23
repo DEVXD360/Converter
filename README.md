@@ -35,11 +35,14 @@ The hexadecimal number system uses sixteen digits/alphabets: 0,1,2,3,4,5,6,7,8,9
 
 ### I build the project using :
 
-- ### HTML : HTML technology is responsible for the structuring and placement of the data. It covers the way content is organized and where it is positioned on the page. It is the backbone.
+- ### HTML : 
+HTML technology is responsible for the structuring and placement of the data. It covers the way content is organized and where it is positioned on the page. It is the backbone.
 
-- ### CSS : CSS is responsible for the representation of the data. It includes colors, fonts, background stuff, peculiarities of a layout, etc.
+- ### CSS 
+CSS is responsible for the representation of the data. It includes colors, fonts, background stuff, peculiarities of a layout, etc.
 
-- ### JavaScript : If you want to add some interactivity, choose JavaScript. These things are controlled via libraries (such as jQuery, React.js, or Zepto.js) fitted into frameworks (for example, Ember, Backbone, or Angular).
+- ### JavaScript
+If you want to add some interactivity, choose JavaScript. These things are controlled via libraries (such as jQuery, React.js, or Zepto.js) fitted into frameworks (for example, Ember, Backbone, or Angular).
 
 
 ## Contributing
