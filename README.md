@@ -35,7 +35,7 @@ The hexadecimal number system uses sixteen digits/alphabets: 0,1,2,3,4,5,6,7,8,9
 
 ### I build the project using :
 
-- ### HTML : 
+- ### HTML
 HTML technology is responsible for the structuring and placement of the data. It covers the way content is organized and where it is positioned on the page. It is the backbone.
 
 - ### CSS 
@@ -54,7 +54,7 @@ If you want to add some interactivity, choose JavaScript. These things are contr
 
 
 ## 🚀 About Me
-My name is Devesh Gaurav.
+My name is ### Devesh Gaurav.
 I'm a full stack developer.
 
 Github: [@deveshgaurav](https://github.com/DEVXD360)
