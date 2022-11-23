@@ -26,10 +26,10 @@ The binary number system uses only two digits: 0 and 1. The numbers in this syst
 - ### Octal Number System:
 The octal number system uses eight digits: 0,1,2,3,4,5,6 and 7 with the base of 8. The advantage of this system is that it has lesser digits when compared to several other systems, hence, there would be fewer computational errors. Digits like 8 and 9 are not included in the octal number system. Just as the binary, the octal number system is used in minicomputers but with digits from 0 to 7. For example: 35base8, 23base8, 141base8 are some examples of numbers in the octal number system.
 
-- ###Decimal Number System:
+- ### Decimal Number System:
 The decimal number system uses ten digits: 0,1,2,3,4,5,6,7,8 and 9 with the base number as 10. The decimal number system is the system that we generally use to represent numbers in real life. If any number is represented without a base, it means that its base is 10. For example: 723base10, 32base10, 4257base10 are some examples of numbers in the decimal number system.
 
-- ###Hexadecimal Number System:
+- ### Hexadecimal Number System:
 The hexadecimal number system uses sixteen digits/alphabets: 0,1,2,3,4,5,6,7,8,9 and A,B,C,D,E,F with the base number as 16. Here, A-F of the hexadecimal system means the numbers 10-15 of the decimal number system respectively. This system is used in computers to reduce the large-sized strings of the binary system. For example, 7B3base16, 6Fbase16, 4B2Abase16 are some examples of numbers in the hexadecimal number system.
 
 
