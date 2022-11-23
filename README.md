@@ -14,6 +14,9 @@ Currently the conversions support :
 - Octal (base 8)
 - Binary (base 2)
 
+## Preview
+![](https://github.com/DEVXD360/Converter/blob/master/converter.png)
+
 
 ## Contributing
 𝐈𝐟 𝐲𝐨𝐮 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐜𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐞 𝐭𝐨 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐝𝐨 𝐢𝐭 𝐜𝐨𝐧𝐬𝐢𝐝𝐞𝐫𝐢𝐧𝐠 𝐭𝐡𝐞𝐬𝐞 𝐟𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐩𝐨𝐢𝐧𝐭𝐬:
