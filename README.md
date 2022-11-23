@@ -54,7 +54,7 @@ If you want to add some interactivity, choose JavaScript. These things are contr
 
 
 ## 🚀 About Me
-My name is ### Devesh Gaurav.
+My name is Devesh Gaurav.
 I'm a full stack developer.
 
 Github: [@deveshgaurav](https://github.com/DEVXD360)
